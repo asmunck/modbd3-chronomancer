@@ -1,0 +1,7 @@
+{
+    "name": "Chronomancer",
+    "description": "Adds a new Wizard subclass focused on time manipulation",
+    "version": "1.0.0",
+    "author": "enkidu",
+    "modPath": "Mods/Chronomancer"
+}

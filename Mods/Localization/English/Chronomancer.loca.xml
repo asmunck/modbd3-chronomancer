@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+    <content contentuid="h87654321" version="1">Chronomancer</content>
+    <content contentuid="h12345678" version="1">Chronomancers are wizards who specialize in the manipulation of time. Through their studies, they've learned to accelerate, slow, stop, and even reverse the flow of time in controlled bursts, giving them unique advantages in battle and exploration.</content>
+    <content contentuid="hCHRONO_FEAT1" version="1">Time Dilation</content>
+    <content contentuid="hCHRONO_FEAT1_DESC" version="1">At 2nd level, you gain the ability to manipulate the flow of time around yourself. You can use your bonus action to enter a state of accelerated time for 1 minute. While in this state, you gain +2 to your initiative and can take an additional bonus action on your turn.</content>
+</contentList>

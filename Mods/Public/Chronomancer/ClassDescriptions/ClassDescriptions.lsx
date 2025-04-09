@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseClassId" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc736b3913"/> <!-- Wizard UUID -->
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> <!-- Use wizard pose -->
+                    <attribute id="Description" type="TranslatedString" handle="h12345678" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h87654321" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Chronomancer"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc736b3913"/> <!-- Wizard UUID -->
+                    <attribute id="PrimaryAbility" type="uint8" value="4"/> <!-- Intelligence -->
+                    <attribute id="ProgressionTableUUID" type="guid" value="33333333-4444-5555-6666-777777777777"/> <!-- This will be our progression table -->
+                    <attribute id="SoundClassType" type="FixedString" value="Wizard"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/> <!-- Intelligence -->
+                    <attribute id="UUID" type="guid" value="22222222-3333-4444-5555-666666666666"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
